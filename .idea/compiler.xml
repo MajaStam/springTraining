@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_04_Autowiring" />
+        <module name="spring_05_Core_Abstraction" />
+        <module name="spring_07_SpringBoot_Demo" />
+        <module name="spring_11_Data_TableCreation" />
+        <module name="spring_02_Core_IoC_Sterotype_Annotation" />
+        <module name="spring_10_Thymeleaf" />
+        <module name="spring_12_Data_Relationship" />
+        <module name="spring_08_MVC_Controller" />
+        <module name="spring_00_Coupling" />
+        <module name="spring_06_Core_BeanScope" />
+        <module name="spring_09_MVC_Model" />
+        <module name="spring_01_Core_IoC_Bean_Annotation" />
+        <module name="spring_03_Wiring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-09-MVC-Model" target="17" />
+      <module name="spring-10-Thymeleaf" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-09-MVC-Model" options="-parameters" />
+      <module name="spring-10-Thymeleaf" options="-parameters" />
+      <module name="spring_11_Data_TableCreation" options="-parameters" />
+      <module name="spring_12_Data_Relationship" options="-parameters" />
+    </option>
+  </component>
+</project>
