@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring_11_Data_TableCreation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring_12_Data_Relationship" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring_13_Data_CinemaLab" vcs="Git" />
   </component>
 </project>

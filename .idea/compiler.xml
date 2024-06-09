@@ -10,6 +10,7 @@
         <module name="spring_04_Autowiring" />
         <module name="spring_05_Core_Abstraction" />
         <module name="spring_07_SpringBoot_Demo" />
+        <module name="spring_13_Data_CinemaLab" />
         <module name="spring_11_Data_TableCreation" />
         <module name="spring_02_Core_IoC_Sterotype_Annotation" />
         <module name="spring_10_Thymeleaf" />
@@ -33,6 +34,7 @@
       <module name="spring-10-Thymeleaf" options="-parameters" />
       <module name="spring_11_Data_TableCreation" options="-parameters" />
       <module name="spring_12_Data_Relationship" options="-parameters" />
+      <module name="spring_13_Data_CinemaLab" options="-parameters" />
     </option>
   </component>
 </project>
