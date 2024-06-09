@@ -17,6 +17,7 @@
         <module name="spring_12_Data_Relationship" />
         <module name="spring_08_MVC_Controller" />
         <module name="spring_00_Coupling" />
+        <module name="spring_14_Data_Queries" />
         <module name="spring_06_Core_BeanScope" />
         <module name="spring_09_MVC_Model" />
         <module name="spring_01_Core_IoC_Bean_Annotation" />
@@ -35,6 +36,7 @@
       <module name="spring_11_Data_TableCreation" options="-parameters" />
       <module name="spring_12_Data_Relationship" options="-parameters" />
       <module name="spring_13_Data_CinemaLab" options="-parameters" />
+      <module name="spring_14_Data_Queries" options="-parameters" />
     </option>
   </component>
 </project>
